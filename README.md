@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 About Me<br>Hi, I'm IndraJeet — Full-Stack Developer who loves building scalable, real-time web applications and clean user experiences.<br><br>I enjoy working with React, Node.js, MongoDB, and modern web tools, and I’m especially interested in real-time systems, developer platforms, and problem-solving through code. I believe in writing clean, maintainable code and continuously improving my skills by building impactful projects.<br><br>📫 Open to internships, full-time roles, and collaborative projects.
+<br>Hi, I'm IndraJeet — Full-Stack Developer who loves building scalable, real-time web applications and clean user experiences.<br><br>I enjoy working with React, Node.js, MongoDB, and modern web tools, and I’m especially interested in real-time systems, developer platforms, and problem-solving through code. I believe in writing clean, maintainable code and continuously improving my skills by building impactful projects.<br><br>📫 Open to internships, full-time roles, and collaborative projects.
 
 
 ## 🌐 Socials:
